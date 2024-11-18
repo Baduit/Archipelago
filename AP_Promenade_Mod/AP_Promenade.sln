@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34916.146
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AP_Promenade", "AP_Promenade.csproj", "{142588B7-757C-49FA-85C4-6C2B48ED1FBE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{142588B7-757C-49FA-85C4-6C2B48ED1FBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{142588B7-757C-49FA-85C4-6C2B48ED1FBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{142588B7-757C-49FA-85C4-6C2B48ED1FBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{142588B7-757C-49FA-85C4-6C2B48ED1FBE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {968B1B27-756A-41CD-A11C-CE0FC4C6D938}
+	EndGlobalSection
+EndGlobal
